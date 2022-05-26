@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Favorite Things</string>
+    <string name="aboutMenu">About</string>
+    <string name="aboutTitle">Developer Information: </string>
+    <string name="aboutMessage">Hello, we have been trying to reach you about your cars extended warranty.</string>
+    <string name="tapME1">TAP ME!</string>
+    <string name="tapME2">TAP ME!</string>
+    <string name="tapME3">TAP ME!</string>
+    <string name="tapME4">TAP ME!</string>
+    <string name="tapME5">TAP ME!</string>
+    <string name="tapME6">TAP ME!</string>
+</resources>
